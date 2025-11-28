@@ -31,3 +31,5 @@ npm start
 [Favoritia](http://paulcristerna.com/favoritia)
 
 ## License
+
+All licenses in this repository are copyrighted by their respective authors. Everything else is released under CC0.
